@@ -15,4 +15,4 @@ The website will offer following function:
 
 # Home page, login and register
 We will put login and register on the same home page after entering our website.
-https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/login.JPG
+![the beginning page](https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/login.JPG)

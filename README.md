@@ -13,3 +13,6 @@ The website will offer following function:
 3. Data interactive visualization
 4. Basic functions (such as Login and Log out)
 
+# Home page, login and register
+We will put login and register on the same home page after entering our website.
+https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/login.JPG

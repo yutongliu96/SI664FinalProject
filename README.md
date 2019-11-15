@@ -1,4 +1,4 @@
-# SI664FinalProject 
+## SI664FinalProject 
 
 The team plans to do the project which bases on the dataset from
 Kaggle(https://www.kaggle.com/karangadiya/fifa19). This dataset has aggregate 89
@@ -12,3 +12,4 @@ The website will offer following function:
 2. Data edit
 3. Data interactive visualization
 4. Basic functions (such as Login and Log out)
+

@@ -1,4 +1,4 @@
-## SI664FinalProject 
+# SI664FinalProject 
 
 The team plans to do the project which bases on the dataset from
 Kaggle(https://www.kaggle.com/karangadiya/fifa19). This dataset has aggregate 89
@@ -13,6 +13,18 @@ The website will offer following function:
 3. Data interactive visualization
 4. Basic functions (such as Login and Log out)
 
-# Home page, login and register
+## Home page, Login and Register
 We will put login and register on the same home page after entering our website.
 ![the beginning page](https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/login.JPG)
+
+## Data Visualization Page
+The data visualization page will provide some detailed visualization for interactions about dataset such as average age for different player positions.
+![DV page](https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/data_visualization.JPG)
+
+## Data View Page
+Data view page is used to view the data details.
+![data view page](https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/data_view.JPG)
+
+## Logout Page
+After clicking the logout button, there will be a independent page for logout information.
+![log out page](https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/logout.JPG)

@@ -28,3 +28,7 @@ Data view page is used to view the data details.
 ## Logout Page
 After clicking the logout button, there will be a independent page for logout information.
 ![log out page](https://github.com/yutongliu96/SI664FinalProject/blob/master/UI/logout.JPG)
+
+## Data Model
+The database contains 7 tables, which are Player, Club, Nationality, Overall Score, Potential Score, Position, and Age. 2 many to many relationships are created, which are between Club and Nationality, Nationality and Overall Score. This is achieved by using Player table as a big junction table. Bsides, Club also have one to many relationship with Player, Overall Score and Potential Score. In this way we can clearly see the competition level of a club.  The other tables all have one to many relationship with Player.
+![data model](https://github.com/yutongliu96/SI664FinalProject/blob/master/statics/Data_Model.png)
